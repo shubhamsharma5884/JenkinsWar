@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins Successfully Deloyed War file in Tomcat using pipleline project!</h2>
+<h2>Hello shubham sharma welcome to tomcat server!</h2>
 </body>
 </html>
